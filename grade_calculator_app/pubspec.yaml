@@ -1,0 +1,44 @@
+name: grade_calculator_app
+description: A professional student grade calculator desktop application.
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Excel read/write
+  excel: ^4.0.2
+
+  # File picker for importing student Excel files
+  file_picker: ^8.0.0+1
+
+  # Save/download the generated Excel file
+  path_provider: ^2.1.1
+
+  # Open file after saving
+  open_file: ^3.3.2
+
+  # Icons
+  flutter_svg: ^2.0.9
+
+  # Animations
+  flutter_animate: ^4.3.0
+
+  # Table / data display
+  data_table_2: ^2.5.12
+
+  # Lottie animations (optional loader)
+  lottie: ^3.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
