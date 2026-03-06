@@ -1,2 +1,1 @@
-# ANDROID-APPLICATION-COURSE
-Assignments
+This repository includes multiple assignments, notably the 'ICTU Community' Android app and a Student Grade Calculator. ICTU Community is a university-focused mobile application built with Kotlin (frontend), Node.js (backend), and Supabase (database). It supports four user roles (students, teachers, staff, and administrators) with features like notification alerts for academic events and a resource database for students. The Student Grade Calculator was developed using Dart/Flutter.
