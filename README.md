@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Grade Calculator — Flutter (Dart)
 
 A full mobile conversion of the Kotlin/Compose Grade Calculator desktop app.
@@ -85,3 +86,6 @@ STU002,Bob Smith,22,58
 - Merit: 50–64.99
 - Pass: 40–49.99
 - Fail: 0–39.99
+=======
+This repository includes multiple assignments, notably the 'ICTU Community' Android app and a Student Grade Calculator. ICTU Community is a university-focused mobile application built with Dart. It supports four user roles (students, teachers, staff, and administrators) with features like notification alerts for academic events and a resource database for students. The Student Grade Calculator was developed using Dart/Flutter.
+>>>>>>> dc996937bea95c0382bb6089bacec22a9291ba90
